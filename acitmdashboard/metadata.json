@@ -1,0 +1,5 @@
+{
+  "name": "ACITM Dashboard",
+  "description": "A modern dashboard for managing franchise centers and student admissions. It includes separate views for Admins and Centers, with features for student CRUD, status management, data visualization, and center administration.",
+  "requestFramePermissions": []
+}
